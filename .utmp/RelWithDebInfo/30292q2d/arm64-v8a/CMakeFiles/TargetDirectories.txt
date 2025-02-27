@@ -1,0 +1,5 @@
+C:/Users/risha/Desktop/GameDev/Projects/Simple Driving/.utmp/RelWithDebInfo/30292q2d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/risha/Desktop/GameDev/Projects/Simple Driving/.utmp/RelWithDebInfo/30292q2d/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/risha/Desktop/GameDev/Projects/Simple Driving/.utmp/RelWithDebInfo/30292q2d/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/risha/Desktop/GameDev/Projects/Simple Driving/.utmp/RelWithDebInfo/30292q2d/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/risha/Desktop/GameDev/Projects/Simple Driving/.utmp/RelWithDebInfo/30292q2d/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
